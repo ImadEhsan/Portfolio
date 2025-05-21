@@ -1,4 +1,4 @@
-# Awab Portfolio
+# Imad Portfolio
 ![Demo GIF](demo.gif)
 
 🔗 [Visit Live Website](https://awab.vercel.app)
